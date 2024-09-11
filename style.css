@@ -45,6 +45,10 @@ body {
   font-size: 20px;
 }
 
+.card .close {
+  text-decoration: none;
+}
+
 .card .telp {
   margin-left: 20px;
   margin-top: 5px;
